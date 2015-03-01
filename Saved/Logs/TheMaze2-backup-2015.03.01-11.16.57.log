@@ -1,0 +1,79 @@
+﻿Log file open, 02/28/15 21:28:14
+LogInit:Display: Running engine for game: TheMaze2
+LogInit: Version: 4.7.1-2462028+++depot+UE4-Releases+4.7
+LogInit: API Version: 2455222
+LogInit: Compiled (64-bit): Feb 26 2015 07:49:00
+LogInit: Compiled with Visual C++: 18.00.21005.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++depot+UE4-Releases+4.7
+LogInit: Command line: 
+LogInit: Base directory: E:/Unreal/Epic Games/4.7/Engine/Binaries/Win64/
+LogInit: Rocket: 1
+[2015.02.28-20.28.14:789][  0]LogTaskGraph: Started task graph with 3 named threads and 6 total threads.
+[2015.02.28-20.28.14:861][  0]LogOnline:Warning: No default platform service specified for OnlineSubsystem
+[2015.02.28-20.28.14:887][  0]LogInit: Presizing for 0 objects not considered by GC, pre-allocating 0 bytes.
+[2015.02.28-20.28.14:899][  0]LogInit: Object subsystem initialized
+[2015.02.28-20.28.14:901][  0]LogConsoleResponse:Warning: Skipping Unknown console variable: 'UIScaleRule = ShortestSide'
+[2015.02.28-20.28.14:901][  0]LogConsoleResponse:Warning:   Found in ini file 'C:/Users/Álvaro/Documents/Unreal Projects/TheMaze2/Saved/Config/Windows/Engine.ini', in section '[/Script/Engine.RendererSettings]'
+[2015.02.28-20.28.14:901][  0]LogConsoleResponse:Warning: Skipping Unknown console variable: 'UIScaleCurve = (EditorCurveData=(Keys=),ExternalCurve=None)'
+[2015.02.28-20.28.14:901][  0]LogConsoleResponse:Warning:   Found in ini file 'C:/Users/Álvaro/Documents/Unreal Projects/TheMaze2/Saved/Config/Windows/Engine.ini', in section '[/Script/Engine.RendererSettings]'
+[2015.02.28-20.28.14:902][  0]LogConsoleManager:Warning: Console variable 'r.MSAA.CompositingSampleCount' wasn't set (Priority ProjectSetting < Scalability)
+[2015.02.28-20.28.14:902][  0]LogInit: Selected Device Profile: [Windows]
+[2015.02.28-20.28.14:902][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2015.02.28-20.28.14:912][  0]LogInit: Computer: ALVARO-PC
+[2015.02.28-20.28.14:912][  0]LogInit: User: Álvaro
+[2015.02.28-20.28.14:912][  0]LogInit: CPU Page size=4096, Cores=4
+[2015.02.28-20.28.14:912][  0]LogInit: High frequency timer resolution =2.767282 MHz
+[2015.02.28-20.28.14:912][  0]LogMemory: Memory total: Physical=6.0GB (6GB approx) Virtual=131072.0GB
+[2015.02.28-20.28.14:912][  0]LogMemory: Platform Memory Stats for Windows
+[2015.02.28-20.28.14:912][  0]LogMemory: Process Physical Memory: 46.60 MB used, 46.60 MB peak
+[2015.02.28-20.28.14:912][  0]LogMemory: Process Virtual Memory: 26.88 MB used, 26.88 MB peak
+[2015.02.28-20.28.14:912][  0]LogMemory: Physical Memory: 3121.60 MB used, 6142.48 MB total
+[2015.02.28-20.28.14:912][  0]LogMemory: Virtual Memory: 299.45 MB used, 134217728.00 MB total
+[2015.02.28-20.28.14:961][  0]LogD3D11RHI: Found D3D11 adapter 0: NVIDIA GeForce GTX 970 (Feature Level 11_0)
+[2015.02.28-20.28.14:961][  0]LogD3D11RHI: Adapter has 3998MB of dedicated video memory, 0MB of dedicated system memory, and 3071MB of shared system memory, 1 output[s]
+[2015.02.28-20.28.14:972][  0]LogD3D11RHI: Found D3D11 adapter 1: Microsoft Basic Render Driver (Feature Level 11_0)
+[2015.02.28-20.28.14:972][  0]LogD3D11RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 256MB of shared system memory, 0 output[s]
+[2015.02.28-20.28.14:972][  0]LogD3D11RHI: Chosen D3D11 Adapter Id = 0
+[2015.02.28-20.28.14:976][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2015.02.28-20.28.14:995][  0]LogD3D11RHI: Async texture creation enabled
+[2015.02.28-20.28.15:629][  0]LogTextLocalizationManager: The requested culture ('es_ES') has no localization data; parent culture's ('es') localization data will be used.
+[2015.02.28-20.28.15:758][  0]LogContentStreaming: Texture pool size is 0.000000MB
+[2015.02.28-20.28.18:813][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2015.02.28-20.28.19:706][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2015.02.28-20.28.19:790][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2015.02.28-20.28.19:837][  0]LogDerivedDataCache: Loaded boot cache 0.05s 39MB C:/Users/Álvaro/AppData/Local/UnrealEngine/4.7/DerivedDataCache/Boot.ddc.
+[2015.02.28-20.28.19:837][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/Álvaro/AppData/Local/UnrealEngine/4.7/DerivedDataCache/Boot.ddc
+[2015.02.28-20.28.19:837][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/Álvaro/Documents/Unreal Projects/TheMaze2/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2015.02.28-20.28.19:837][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2015.02.28-20.28.19:996][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2015.02.28-20.28.20:009][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Álvaro/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2015.02.28-20.28.20:378][  0]LogMeshUtilities: No automatic mesh reduction module available
+[2015.02.28-20.28.20:378][  0]LogMeshUtilities: No automatic mesh merging module available
+[2015.02.28-20.28.20:845][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2015.02.28-20.28.20:960][  0]LogSlate:Warning: Failed to load font data from '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf'
+[2015.02.28-20.28.22:065][  0]UdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2015.02.28-20.28.22:356][  0]SourceControl: Información El control de código fuente está desactivado
+[2015.02.28-20.28.22:357][  0]SourceControl: Información El control de código fuente está desactivado
+[2015.02.28-20.28.22:357][  0]SourceControl: Información El control de código fuente está desactivado
+[2015.02.28-20.28.22:369][  0]SourceControl: Información El control de código fuente está desactivado
+[2015.02.28-20.28.22:649][  0]LogObj: 24231 objects as part of root set at end of initial load.
+[2015.02.28-20.28.22:649][  0]LogUObjectAllocator: 5136440 out of 0 bytes used by permanent object pool.
+[2015.02.28-20.28.22:759][  0]LogEngine: Initializing Engine...
+[2015.02.28-20.28.24:973][  0]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x60f)
+[2015.02.28-20.28.24:988][  0]LogInit: FAudioDevice initialized.
+[2015.02.28-20.28.25:038][  0]LogAIModule: Creating AISystem for world NewWorld
+[2015.02.28-20.28.25:060][  0]LogDerivedDataCache: Saved boot cache 0.02s 39MB C:/Users/Álvaro/AppData/Local/UnrealEngine/4.7/DerivedDataCache/Boot.ddc.
+[2015.02.28-20.28.25:067][  0]LogInit: Texture streaming: Enabled
+[2015.02.28-20.28.25:187][  0]LogAnalytics: Creating configured Analytics provider AnalyticsET
+[2015.02.28-20.28.25:187][  0]LogAnalytics: ET APIKey = Rocket.Release. APIServer = http://et2.epicgames.com/ET2/. AppVersion = 4.7.1-2462028+++depot+UE4-Releases+4.7
+[2015.02.28-20.28.25:187][  0]LogAnalytics: ET APIKey = Rocket.Release. DataRouterUploadURL = https://datarouter-public-service-gamedev.ol.epicgames.net/datarouter/api/v1/public/data. AppVersion = 4.7.1-2462028+++depot+UE4-Releases+4.7
+[2015.02.28-20.28.25:187][  0]LogAnalytics: SetUserId e84ebc914ed367bec53e77a61fe585c4|0ce9cd541b394f54aee5cd06981e0e07|9b758198-c30e-447e-b804-9c106389a811
+[2015.02.28-20.28.25:187][  0]LogAnalytics: AnalyticsET::StartSession [Rocket.Release]
+[2015.02.28-20.28.25:220][  0]LogInit: Transaction tracking system initialized
+[2015.02.28-20.28.25:457][  0]BlueprintLog: New page: Cargar el editor
+[2015.02.28-20.28.25:501][  0]LogAssetRegistry: FAssetRegistry took 0.0106 seconds to start up
+[2015.02.28-20.28.25:501][  0]LogDirectoryWatcher:Warning: Failed to begin reading directory changes for ../../../Engine/Plugins/Experimental/CharacterAI/Content/. Error: 0
+[2015.02.28-20.28.26:402][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2015.02.28-20.28.27:063][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2015.02.28-20.28.27:428][  0]LogSlate:Warning: Failed t
